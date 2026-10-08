@@ -1,6 +1,6 @@
 ### hi there !!!
 
-i'm alexander pechul — a student majoring in software engineering. my main interest is machine learning specifically recommendation systems. but also i build python backends and fancy frontend projects.
+i'm alexander pechul — a student majoring in software engineering. my main interest is machine learning specifically Natural Language Processing, AI Engineering and Recommender Systems.
 
 ### my skills 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,fastapi,sklearn,pytorch,vim,docker,postgres,react&perline=9)](https://skillicons.dev)
